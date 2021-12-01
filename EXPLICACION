@@ -1,0 +1,21 @@
+Tarefa  11
+
+A  partir  de  main,  fai  unha  nova  rama  para  desenvolver  o  arquivo  index2.html  facendo 
+operacións equivalentes as que están feitas no exercicio anterior. 
+Cando finalices a fusión desta nova rama, fai as operacións que sexan necesarias para crear a 
+versión V1.0 do proxecto sobre a rama main.  
+Sube  a  Aula  Virtual  a  URL  do  proxecto  en  GitHub,  xunto  con  unha  explicación  secuencial  das operacións feitas para realizar esta tarefa con comandos incluídos. 
+
+Explicación:
+
+-Creei o repositorio local e o remoto, os sincronicei.
+
+-Fixen os seguintes cambios nas ramas:
+	-Na rama main eliminei o index3 e sincronicei.
+	-Na rama D1 creei unha carpeta stylesheet.
+
+-Fusionei as duas ramas e creei o tag que se pide.
+
+URL: https://github.com/FranciscoFernandezA/Proxecto-Web
+
+
